@@ -1,0 +1,12 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Scripts
+*.py
+!generate_full_dl_pr5.py
+
+# Large raw datasets
+IMDB Dataset.csv
+RNN_Sentiment_Analysis_Practical.ipynb
