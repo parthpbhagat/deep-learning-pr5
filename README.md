@@ -177,6 +177,11 @@ pr5/
 
 ### Tools & Frameworks:
 - **Framework:** TensorFlow 2.21.0 & Keras 3.15.1
+
+
+**Name:** Parth Bhagat
+**GR ID:** 10681
+**Video Link:** https://drive.google.com/file/d/12rFGL0sXYsEFMjzvzZe2_l6WzRPuRMm9/view?usp=drive_link
 - **Language:** Python 3.11.9
 - **Data & Evaluation:** Pandas 2.3.3, NumPy 2.2.6, Scikit-Learn 1.4.2
 - **Visualization:** Matplotlib 3.11.1, Seaborn 0.13.2
